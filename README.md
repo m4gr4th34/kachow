@@ -21,5 +21,7 @@ The wallets should be attached to a biometric ID to ensure that duplicate UBI do
 Investors receive a return on investment (ROI) through the initial KCoins that they receive, which should increase in value as the currency acquires adoption.  The investment will be used to create a mining company called Kachow Mining Inc which will mine KCoins in exchange for keeping the KCoin blockchain current.  The amount of KCoin generated for mining will alo depend on an algorithm that is linked to the valuation of KCoin in the marketplace, to maintain incentives for miners.  Other miners will also be encouranged to enter the space, leading to ‘decentralization’ of the KCoin.
 
 Further Reading:
+
 UBI: https://www.vox.com/future-perfect/2020/2/19/21112570/universal-basic-income-ubi-map
+
 Blockchain: https://www.investopedia.com/terms/b/blockchain.asp
