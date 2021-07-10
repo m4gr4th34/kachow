@@ -10,8 +10,8 @@ With Kachow wallet, the new KCoins are distributed to everyone, creating a ‘ci
 Demo:  
 1. Let us start in an unequal scenario where Person A starts with 0 KCoins, and Person B starts with 1,000,000 KCoins through massive purchase of KCoins.
 2. Everyone receives 100 KCoins (Version 1) over a period of X days through UBI, so the balance on day X is: Person A (100 KCoins), Person B (1,000,100 KCoins)
-3. KCoin undergoes an upgrade to Version 2, in order to 'reflate' the currency, by dividing KCoin Version 1 by 100.  I.e. KCoin-V2 = KCoin-V1 / 100
-4. The balance in the wallets are now: Person A (1 KCoinV2), Person B (10,001 KCoinV2)
+3. On day X+1, KCoin undergoes an upgrade to Version 2, in order to 'reflate' the currency, by dividing KCoin Version 1 by 100.  I.e. KCoin-V2 = KCoin-V1 / 100
+4. The balance in the wallets at day X+1 are now: Person A (1 KCoinV2), Person B (10,001 KCoinV2)
 5. Continuing the process on a regular basis, every wallet tends towards 1 KCoin over time, leading to regular wealth redistribution without runaway inflation.
 
 From a psychological point of view, the process feels fair because everyone receives exactly the same UBI income, and no stigma is associated with UBI income.  Additionally no explicit tax collection is required in order to perform the wealth redistribution.
