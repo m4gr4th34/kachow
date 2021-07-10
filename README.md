@@ -18,7 +18,7 @@ From a psychological point of view, the process feels fair because everyone rece
 
 The wallets should be attached to a biometric ID to ensure that duplicate UBI does not occur.
 
-Kachow Mining Inc will be the first miner of Kachow coins in order to provide guaranteed blockchain support.  Once other individuals begin mining, the process will lead to ‘decentralization’ of the Kachow Coin.
+Kachow Coin Inc will collaborate with established crypto-mining companies.  These 3rd party crypto-mining companies will mine Kachow Coin blockchain, leading to ‘decentralization’ of the Kachow Coin.
 
 Further Reading:  
 UBI: https://www.vox.com/future-perfect/2020/2/19/21112570/universal-basic-income-ubi-map  
