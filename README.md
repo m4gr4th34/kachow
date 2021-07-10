@@ -20,6 +20,8 @@ The wallets should be attached to a biometric ID to ensure that duplicate UBI do
 
 Kachow Coin Inc will collaborate with established crypto-mining companies.  These 3rd party crypto-mining companies will mine Kachow Coin blockchain, leading to ‘decentralization’ of the Kachow Coin.
 
+A new game for a new generation.  Want to contribute?  Go for it!  We provide the wallet, you provide the gusto!
+
 Further Reading:  
 UBI: https://www.vox.com/future-perfect/2020/2/19/21112570/universal-basic-income-ubi-map  
 Blockchain: https://www.investopedia.com/terms/b/blockchain.asp  
