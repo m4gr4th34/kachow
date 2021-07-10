@@ -12,7 +12,7 @@ Demo:
 2. Everyone receives 100 KCoins over a period of X days through UBI, so the balance is: Person A (100 KCoins), Person B (1,000,100 KCoins)
 3. KCoin is undergoes an upgrade to Version 2, in order to 'reflate' the currency, by dividing KCoin Version 1 by 100.  I.e. KCoin-V2 = KCoin-V1 / 100
 4. The balance in the wallets are now: Person A (1 KCoinV2), Person B (10,001 KCoinV2)
-5. Continuing the process on a regular basis, one case see that every wallet tends towards 1 KCoin over time.
+5. Continuing the process on a regular basis, every wallet tends towards 1 KCoin over time, leading to regular wealth redistribution without runaway inflation.
 
 From a psychological point of view, everyone feels fair because everyone receives exactly the same UBI income.  Additionally no tax collection is required in order to perform the wealth redistribution.
 
@@ -20,8 +20,6 @@ The wallets should be attached to a biometric ID to ensure that duplicate UBI do
 
 Investors receive a return on investment (ROI) through the initial KCoins that they receive, which should increase in value as the currency acquires adoption.  The investment will be used to create a mining company called Kachow Mining Inc which will mine KCoins in exchange for keeping the KCoin blockchain current.  The amount of KCoin generated for mining will alo depend on an algorithm that is linked to the valuation of KCoin in the marketplace, to maintain incentives for miners.  Other miners will also be encouranged to enter the space, leading to ‘decentralization’ of the KCoin.
 
-Further Reading:
-
-UBI: https://www.vox.com/future-perfect/2020/2/19/21112570/universal-basic-income-ubi-map
-
-Blockchain: https://www.investopedia.com/terms/b/blockchain.asp
+Further Reading:  
+UBI: https://www.vox.com/future-perfect/2020/2/19/21112570/universal-basic-income-ubi-map  
+Blockchain: https://www.investopedia.com/terms/b/blockchain.asp  
